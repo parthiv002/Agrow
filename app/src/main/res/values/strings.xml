@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Agrow</string>
+    <string name="sell">Sell</string>
+    <string name="buy">Buy</string>
+    <string name="community">Community</string>
+    <string name="FAQ">Community</string>
+    <string name="card_view_design">CARD VIEW DESIGN</string>
+    <string name="Frequently">FAQ</string>
+    <string name="Questions">questions</string>
+    <string name="questions">FAQ</string>
+    <string name="shop">Shop</string>
+    <string name="card_view">DASHBOARD</string>
+    <string name="what_s_on_your_mind">What\'s on your mind?</string>
+</resources>

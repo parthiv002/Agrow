@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "944146712289",
+    "project_id": "agrow-22610",
+    "storage_bucket": "agrow-22610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944146712289:android:2f056cbca614a8574759a0",
+        "android_client_info": {
+          "package_name": "com.gdsc.agrow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944146712289-soc9f940db1hda68sjprfcur25nguli5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gdsc.agrow",
+            "certificate_hash": "d91a97e04bd047a192c87cb260bc27262c66655a"
+          }
+        },
+        {
+          "client_id": "944146712289-74v39efqtukjqtejcmu9ro83i2atscuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBk7urwzbfB6ckrm63nB1bIAuCLYAVPyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944146712289-74v39efqtukjqtejcmu9ro83i2atscuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
