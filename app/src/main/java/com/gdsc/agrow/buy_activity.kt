@@ -29,7 +29,7 @@ class buy_activity : AppCompatActivity() {
             "Trailers",
             "sprayers",
             "harvesters",
-            "fake"
+            "rake"
 
         )
 
