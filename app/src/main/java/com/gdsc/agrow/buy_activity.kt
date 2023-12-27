@@ -53,7 +53,7 @@ class buy_activity : AppCompatActivity() {
         newRecyclerView.adapter = adapter
         adapter.setOnItemClickListener(object : MyAdapter.onItemClickListener{
             override fun onItemClick(position: Int) {
-               /* Toast.makeText(this, "Under development", Toast.LENGTH_SHORT)
+               /*Toast.makeText(this, "Under development", Toast.LENGTH_SHORT)
                     .show() */
 
             }
